@@ -15,7 +15,7 @@
 
 | Home Screen | Chat Screen | Location Sharing |
 |------------|------------|----------------|
-| ![Home](https://via.placeholder.com/300) | ![Chat](https://via.placeholder.com/300) | ![Location](https://via.placeholder.com/300) |
+| ![Home]([(assets/homescreen.jpeg)) | ![Chat](https://via.placeholder.com/300) | ![Location](https://via.placeholder.com/300) |
 
 ## 🛠️ Tech Stack
 
