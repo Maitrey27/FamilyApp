@@ -13,9 +13,10 @@
 
 ## 📸 Screenshots
 
-| Home Screen | Chat Screen | Location Sharing |
-|------------|------------|----------------|
-| ![Home]([(assets/homescreen.jpeg)) | ![Chat](https://via.placeholder.com/300) | ![Location](https://via.placeholder.com/300) |
+| Home Screen | Security Screen | Location Sharing |
+|------------|----------------|------------------|
+| <img src="https://github.com/user-attachments/assets/41240f3b-2bb1-4a2d-9179-f29b7cb0f7fb" width="250"/> | <img src="https://github.com/user-attachments/assets/3b0f83f7-e14d-42d5-b51f-f3ea2c5d2c4d" width="250"/> | <img src="https://github.com/user-attachments/assets/9b230171-d7db-49d7-9330-de110286cc8a" width="250"/> |
+
 
 ## 🛠️ Tech Stack
 
